@@ -1,4 +1,4 @@
-# React + Vite
+# Memories
 
 This is currently a half done CRUD Redux app.
 
