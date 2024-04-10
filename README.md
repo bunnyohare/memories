@@ -31,7 +31,7 @@ export default connectDB;
 4.Change directory to the client folder. 
 
 5. Run `npm install --force`
-6. Run `npm install @material-ui/core @mui/material` 
+6. Run `npm install @material-ui/core @mui/material --force` 
 7. Run `npm install @emotion/react @emotion/styled @mui/icons-material --force`
 8. Run `npm i react-redux --force`
 9. Run `npm run dev`
