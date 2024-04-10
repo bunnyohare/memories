@@ -26,9 +26,12 @@ export default connectDB;
     You can obtain your own connection url from your mongo db as a connection string
 
 3. Run npm start to start your server
+4. Open server in Chrome (or other browser) at http://localhost:5001/posts
 
 4.Change directory to the client folder. 
 
-5. Run npm install 
-6. Run npm run dev
+5. Run npm install --force
+6. Run npm install @material-ui/core @mui/material 7, Run @emotion/react @emotion/styled @mui/icons-material --force
+7. Run npm i react-redux --force
+9. Run npm run dev
  
